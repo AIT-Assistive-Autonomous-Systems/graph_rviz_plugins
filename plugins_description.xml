@@ -1,0 +1,8 @@
+<library path="graph_rviz_plugins">
+    <class name="graph_rviz_plugins/GeometryGraph" type="graph_rviz_plugins::GeometryGraphDisplay" base_class_type="rviz_common::Display">
+        <description>
+            Display geometric graph.
+        </description>
+        <message_type>graph_msgs/msg/GeometryGraph</message_type>
+    </class>
+</library>
